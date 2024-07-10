@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+
+# Ignore the .idea folder created by your IDE
+.idea/
+
+# Ignore the virtual environment scripts and packages
+Scripts/
+Lib/site-packages/
+
+# Ignore the model file
+Diabetes.pkl
+
+# Optionally ignore the virtual environment configuration file
+pyvenv.cfg
