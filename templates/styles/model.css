@@ -140,7 +140,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("file:///C:/Users/Dell/Desktop/Projects/Diabetes_Prediction/templates/images/home.jpg") no-repeat center;
+    background: url("../images/home.jpg") no-repeat center;
     height: 100vh;
     color: #f2f2f2;
     min-height: 500px;
